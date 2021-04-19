@@ -1,5 +1,7 @@
 Hey, I’m @jacobrgreen114! <br />
-I'm currently learning about OS development and am currently working to develop my own.
+I'm currently learning about OS development and am currently working to develop my own. <br />
+<br />
+Feel free to email me at : jacobrgreen114@gmail.com
 
 
 <!---
